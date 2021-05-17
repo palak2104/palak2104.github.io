@@ -1,0 +1,159 @@
+/***************************TAG******************************/
+body {
+   
+    
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-family: cursive;
+    color: #333333;
+    
+}
+h1 {
+    font-size: 90px;
+    top: "500";
+    color: #e93b81;
+   
+    margin-top: 0;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #f21170;
+    font-size: 2.5rem;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #ce1f6a;
+}
+hr {
+    border: dotted;
+    border-bottom: none;
+    color: #e93b81;
+    width: 10%;
+    margin: 100px auto;
+    
+}
+
+
+/***************************Class******************************/
+.top-cloud {
+    position: absolute; 
+    left: 70%; 
+    top: 50px; 
+}
+.bottom-cloud {
+    position: absolute;
+    left: 10%;
+    bottom: 65%;
+}
+.girl_programmer {
+    background-color: #f4f9f9; 
+}
+.top {
+    /*background-color: #f4f9f9;*/
+    background-color: white; 
+    position: relative;
+    padding-top: 100px; 
+   
+}
+.middle {
+  background-color: #f4f9f9;
+  
+}
+.bottom {
+    padding-top:5%;
+    background-color: #eb596e;
+    color: black;
+}
+.contact-me {
+    
+    
+    padding-bottom:10%;
+    
+}
+.profile {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    
+}
+
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.cp {
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+.cpp {
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+.web {
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+.intro {
+    width: 40%;
+    text-align: center;
+    position: relative;
+    left: 30%;
+}
+.inline-block {
+    display: inline-block;
+    /* margin-left: 5%; */
+    
+ }
+
+ .skills {
+    padding-bottom: 50px;
+ }
+ .edu {
+    padding-bottom: 50px;
+ }
+ .touch {
+    padding-bottom: 50px;  
+ }
+ .banner {
+    padding-bottom: 50px;
+ }
+ .btn {
+    -webkit-border-radius: 21;
+    -moz-border-radius: 21;
+    border-radius: 21px;
+    font-family: Georgia;
+    color: #171517;
+    font-size: 20px;
+    background: #eb596e;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ffe5e2;
+    background-image: -webkit-linear-gradient(top, #ffe5e2, #f4a9a8);
+    background-image: -moz-linear-gradient(top, #ffe5e2, #f4a9a8);
+    background-image: -ms-linear-gradient(top, #ffe5e2, #f4a9a8);
+    background-image: -o-linear-gradient(top, #ffe5e2, #f4a9a8);
+    background-image: linear-gradient(to bottom, #ffe5e2, #f4a9a8);
+    text-decoration: none;
+ }
+ .footer {
+     margin-right: 1%;
+ } 
+
+ 
+ 
+
+
+/***************************ID******************************/
